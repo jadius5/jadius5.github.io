@@ -1,0 +1,22 @@
+.container-fluid {
+  padding: 10%;
+}
+
+img {
+  padding: 1%;
+}
+
+div {
+  background-color: white;
+}
+
+p {
+  padding-bottom: 1%;
+}
+.container{
+  Margin: 10% auto;
+}
+
+footer {
+  border-top: 1px solid #fcc;
+}
