@@ -5,3 +5,8 @@
 div, nav {
   border: 1px solid #fcc;
 }
+
+#navHead {
+  display: flex;
+  align-items: center;
+}
